@@ -18,7 +18,7 @@ Not all classes are available every year. The courses taught are based on the in
 
 ¹ Satisfies Fine Art Graduation Requirement
 
-![alt text](exy.png "No") I understand
+![alt text](checky.png "Yes") I understand
 
 ### Classroom Expectations:
 The Balcony Mac Lab is a district computer lab, and as such has some policies that are set by the district.
