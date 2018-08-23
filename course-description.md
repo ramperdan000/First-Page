@@ -7,7 +7,9 @@ TechApps in Texas has six main strands based on the National Education Technolog
 Computer Science I will foster students' creativity and innovation by presenting opportunities to design, implement, and present meaningful programs through a variety of media. Students will collaborate with one another, their instructor, and various electronic communities to solve the problems presented throughout the course. Through data analysis, students will identify task requirements, plan search strategies, and use computer science concepts to access, analyze, and evaluate information needed to solve problems. By using computer science knowledge and skills that support the work of individuals and groups in solving problems, students will select the technology appropriate for the task, synthesize knowledge, create solutions, and evaluate the results. Students will learn digital citizenship by researching current laws and regulations and by practicing integrity and respect. Students will gain an understanding of the principles of computer science through the study of technology operations, systems, and concepts.
 
 Computer Science 1 is an intermediate-level course, not introductory level. Prior to taking Computer Science 1, it is recommended for students to complete Fundamentals of CS or Digital Communications. Students may also consider taking Digital Art to increase general knowledge of tech and applications.
- 
+
+![alt text](../images/compsci.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
+
 #### Course Summary
 
 Don't just learn about computers, learn about how they work, how they think, and how to make them do what you want. We'll create a variety programs throughout the year, and you'll have to apply CS concepts to plan and create a couple of your own.
