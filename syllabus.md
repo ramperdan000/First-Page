@@ -29,7 +29,7 @@ Every student is sitting at a new iMac with 16 gb of ram and a 21.5” screen. A
 
 Specific homework is rarely given. As such, students are expected to be productive from the start of class, until the end. However, you are expected to interact with course content or concepts outside of class.
 
-![alt text](exy.png "No") I understand
+![alt text](checky.png "Yes") I understand
 
 ### For class, please consider bringing:
 * Headphones (your personal use)
