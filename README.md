@@ -5,3 +5,5 @@ I hope anyone reading enjoys... Well as much as one can enjoy this. I don't know
 ["Syllabus link"](syllabus.md)
 
 ["Course Description link"](course-description.md)
+
+["What is Computer Science"](https://github.com/ramperdan000/What-is-Computer-Science/blob/master/README.md#what-is-computer-science)
