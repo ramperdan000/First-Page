@@ -7,3 +7,5 @@ I hope anyone reading enjoys... Well as much as one can enjoy this. I don't know
 ["Course Description link"](course-description.md)
 
 ["What is Computer Science?"](https://ramperdan000.github.io/What-is-Computer-Science/)
+
+["People of Interest"](https://ramperdan000.github.io/People-of-Interest/)
